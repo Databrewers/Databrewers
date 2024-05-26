@@ -45,8 +45,3 @@
 ## duHouse
 **Public** - C
 - Description: Sensor codes
-- Stars: 0
-- Forks: 0
-- Issues: 0
-- Pull Requests: 0
-- Updated: March 28
